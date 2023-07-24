@@ -12,5 +12,5 @@ Requirement:
 2. Kotlin
 
 Download the Zip folder and extract the folder to the required location.
-Open the folder in Android Studio and build the application
+Open the folder in Android Studio, build and run the application
 
